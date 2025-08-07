@@ -25,14 +25,14 @@ Projects are designed to build hands-on skills, demonstrate professional readine
 ---
 
 ## Project Structure
-'''
+```
 forage-job-simulation-portfolio/
 ├── mastercard-cybersecurity/
 │ ├── README.md
 │ ├── phishing-awareness-training.pptx
 │ └── report-summary.md
 └── README.md
-'''
+```
 
 ---
 
