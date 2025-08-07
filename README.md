@@ -29,8 +29,8 @@ Projects are designed to build hands-on skills, demonstrate professional readine
 forage-job-simulation-portfolio/
 ├── mastercard-cybersecurity/
 │ ├── README.md
-│ ├── phishing-awareness-training.pptx
-│ └── report-summary.md
+│ ├── mastercard-cybersecurity-task2.pdf
+│ └── report-mastercard-cybersecurity.pdf
 └── README.md
 ```
 
